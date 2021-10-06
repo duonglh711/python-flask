@@ -1,2 +1,2 @@
 # python-flask
-Build professional REST APIs with Python, Flask, Flask-RESTful, and Flask-SQLAlchemy
+Build scalable Python Web Applications with Flask, PostgreSQL, SQLAlchemy, git, and Heroku With Awesome Project
